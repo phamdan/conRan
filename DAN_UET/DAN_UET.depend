@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1525687206 source:c:\users\dan pham\desktop\dan_uet.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<string>
+	<console.h>
+	<time.h>
+	<cmath>
+	<SDL.h>
+
+1526380283 source:c:\users\dan pham\desktop\dan_uet\dan_uet.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<string>
+	<console.h>
+	<time.h>
+	<cmath>
+	<SDL.h>
+	"image.h"
+
+1525682237 source:c:\users\dan pham\desktop\dan_uet\image.cpp
+	<iostream>
+	<SDL.h>
+	"image.h"
+
+1525682243 c:\users\dan pham\desktop\dan_uet\image.h
+	<SDL.h>
+	<iostream>
+
+1525768407 source:c:\users\dan pham\desktop\dan_uet\hien_thi.cpp
+
+1529928932 source:c:\users\dan_pham\desktop\dan_uet\dan_uet.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<string>
+	<console.h>
+	<time.h>
+	<cmath>
+	<SDL.h>
+	"image.h"
+	<vector>
+
+1525682243 c:\users\dan_pham\desktop\dan_uet\image.h
+	<SDL.h>
+	<iostream>
+
+1525682237 source:c:\users\dan_pham\desktop\dan_uet\image.cpp
+	<iostream>
+	<SDL.h>
+	"image.h"
+
